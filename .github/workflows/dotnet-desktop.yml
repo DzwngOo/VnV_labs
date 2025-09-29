@@ -12,12 +12,12 @@ jobs:
 
     defaults:
       run:
-        working-directory: ./SubFolderThatContainsSolutionFile/  # Specify the folder containing your solution file
+        working-directory: ./SubFolderThatContainsSolutionFile  # Correct if solution file is in subfolder
 
     env:
-      Solution_Name: ICT3101_Calculator.sln                       # Your solution file name
-      NUnit_Test_Project_Path: Tests/ICT3101_Calculator.UnitTests/ICT3101_Calculator.UnitTests.csproj   # Path to NUnit tests
-      SpecFlow_Test_Project_Path: Tests/SpecFlowCalculatorTests/SpecFlowCalculatorTests.csproj   # Path to SpecFlow tests
+      Solution_Name: ICT3101_Calculator.sln
+      NUnit_Test_Project_Path: Tests/ICT3101_Calculator.UnitTests/ICT3101_Calculator.UnitTests.csproj
+      SpecFlow_Test_Project_Path: Tests/SpecFlowCalculatorTests/SpecFlowCalculatorTests.csproj
 
     steps:
     - name: Checkout
@@ -35,18 +35,10 @@ jobs:
 
     # Run NUnit tests
     - name: Run NUnit Tests
-      working-directory: ./Tests/ICT3101_Calculator.UnitTests/   # Path to your NUnit test project
+      working-directory: ./Tests/ICT3101_Calculator.UnitTests  # Fix path here
       run: dotnet test --no-build --verbosity normal
 
     # Run SpecFlow tests
     - name: Run SpecFlow Tests
-      working-directory: ./Tests/SpecFlowCalculatorTests/   # Path to your SpecFlow test project
+      working-directory: ./Tests/SpecFlowCalculatorTests  # Fix path here
       run: dotnet test --no-build --verbosity normal
-
-    # If you were using WAP, remove or comment out the packaging-related steps
-    # Example:
-    # - name: Decode the pfx
-    #   run: |
-    #     $pfx_cert_byte = [System.Convert]::FromBase64String("${{ secrets.Base64_Encoded_Pfx }}")
-    #     $certificatePath = Join-Path -Path $env:Wap_Project_Directory -ChildPath GitHubActionsWorkflow.pfx
-    #     [IO.File]::WriteAllBytes("$certificatePath", $pfx_cert_byte)
