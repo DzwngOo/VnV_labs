@@ -8,15 +8,11 @@ on:
 
 jobs:
   build:
-    strategy:
-      matrix:
-        dotnet-version: [6.0, 8.0]  # Matrix for both .NET 6 and .NET 8
-
     runs-on: windows-latest
 
     defaults:
       run:
-        working-directory: ./  # Assuming the solution and tests are in the root folder
+        working-directory: ./  # Assuming everything is in the root folder
 
     env:
       Solution_Name: ICT3101_Calculator.sln
@@ -32,18 +28,31 @@ jobs:
     - name: Install .NET Core
       uses: actions/setup-dotnet@v4
       with:
-        dotnet-version: ${{ matrix.dotnet-version }}  # Use matrix variable for version
+        dotnet-version: 8.0.x  # Ensure correct .NET version
 
     - name: Setup MSBuild.exe
       uses: microsoft/setup-msbuild@v2
 
-    # Run NUnit tests
+    # Run NUnit tests (already working fine)
     - name: Run NUnit Tests
       working-directory: ./ICT3101_Calculator.UnitTests
       run: dotnet test --no-build --verbosity normal
 
+    # List all tests for SpecFlow (this is important to see if tests are discovered)
+    - name: List SpecFlow Tests
+      working-directory: ./SpecFlowCalculatorTests  # Path to your SpecFlow test project
+      run: dotnet test --list-tests --no-build --verbosity normal
+
     # Run SpecFlow tests
     - name: Run SpecFlow Tests
-      working-directory: ./SpecFlowCalculatorTests
+      working-directory: ./SpecFlowCalculatorTests  # Path to your SpecFlow test project
       run: dotnet test --no-build --verbosity normal
+
+    # Upload test results if needed
+    - name: Upload Test Results
+      uses: actions/upload-artifact@v4
+      with:
+        name: test-results
+        path: ./SpecFlowCalculatorTests/test_results.trx
+
 
