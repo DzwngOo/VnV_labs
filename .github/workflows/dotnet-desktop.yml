@@ -74,9 +74,9 @@ jobs:
 
 
     # Execute all unit tests in the solution
-    - name: NUNIT Tests
+    - name: NUnit Tests
       working-directory: ICT3112_Calculator.UnitTests/
-      run: donet test --no-build --verbosity normal 
+      run: dotnet test --no-build --verbosity normal
 
     - name: SpecFLow Tests
       working-directory: SpecFlowCalculatorTests/
