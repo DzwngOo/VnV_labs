@@ -12,12 +12,12 @@ jobs:
 
     defaults:
       run:
-        working-directory: ./SubFolderThatContainsSolutionFile  # Specify your solution's folder if it's not in the root
+        working-directory: ./  # Since everything is in the root folder, no subfolder is needed
 
     env:
-      Solution_Name: ICT3101_Calculator.sln  # Your solution file
-      NUnit_Test_Project_Path: Tests/ICT3101_Calculator.UnitTests/ICT3101_Calculator.UnitTests.csproj  # Adjust path if needed
-      SpecFlow_Test_Project_Path: Tests/SpecFlowCalculatorTests/SpecFlowCalculatorTests.csproj  # Adjust path if needed
+      Solution_Name: ICT3101_Calculator.sln                       # Your solution file
+      NUnit_Test_Project_Path: ICT3101_Calculator.UnitTests/ICT3101_Calculator.UnitTests.csproj   # Path to NUnit test project in root
+      SpecFlow_Test_Project_Path: SpecFlowCalculatorTests/SpecFlowCalculatorTests.csproj   # Path to SpecFlow test project in root
 
     steps:
     - name: Checkout
@@ -35,12 +35,13 @@ jobs:
 
     # Run NUnit tests
     - name: Run NUnit Tests
-      working-directory: ./Tests/ICT3101_Calculator.UnitTests  # Ensure the correct relative path
+      working-directory: ./ICT3101_Calculator.UnitTests  # Correct path to your NUnit test project under root
       run: dotnet test --no-build --verbosity normal
 
     # Run SpecFlow tests
     - name: Run SpecFlow Tests
-      working-directory: ./Tests/SpecFlowCalculatorTests  # Ensure the correct relative path
+      working-directory: ./SpecFlowCalculatorTests  # Correct path to your SpecFlow test project under root
       run: dotnet test --no-build --verbosity normal
+
 
 
