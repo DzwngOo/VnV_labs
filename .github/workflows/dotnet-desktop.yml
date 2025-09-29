@@ -40,7 +40,8 @@ jobs:
     # Run NUnit tests (already working fine)
     - name: Run NUnit Tests
       working-directory: ./ICT3101_Calculator.UnitTests
-      run: dotnet test --verbosity normal 
+      run: dotnet test --no-build --verbosity normal
+
 
     # Run SpecFlow tests
     - name: Run SpecFlow Tests
