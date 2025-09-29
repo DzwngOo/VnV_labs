@@ -35,10 +35,11 @@ jobs:
 
     # Run NUnit tests
     - name: Run NUnit Tests
-      working-directory: ./Tests/ICT3101_Calculator.UnitTests  # Fix path here
+      working-directory: .ICT3101_Calculator.UnitTests  # Fix path here
       run: dotnet test --no-build --verbosity normal
 
     # Run SpecFlow tests
     - name: Run SpecFlow Tests
-      working-directory: ./Tests/SpecFlowCalculatorTests  # Fix path here
+      working-directory: ./SpecFlowCalculatorTests  # Fix path here
       run: dotnet test --no-build --verbosity normal
+
