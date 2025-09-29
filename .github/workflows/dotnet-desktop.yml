@@ -87,12 +87,12 @@ jobs:
     # Run NUnit tests
     - name: Run NUnit Tests
       working-directory: ./ICT3101_Calculator.UnitTests
-      run: dotnet test --no-build --verbosity normal --configuration Release --framework net${{ matrix.dotnet-version }}
+      run: dotnet test --no-build --verbosity normal --configuration Release --framework net${{ matrix.dotnet-version }}.0
 
     # Run SpecFlow tests
     - name: Run SpecFlow Tests
       working-directory: ./SpecFlowCalculatorTests
-      run: dotnet test --no-build --verbosity normal --configuration Release --framework net${{ matrix.dotnet-version }}
+      run: dotnet test --no-build --verbosity normal --configuration Release --framework net${{ matrix.dotnet-version }}.0
 
 
 
