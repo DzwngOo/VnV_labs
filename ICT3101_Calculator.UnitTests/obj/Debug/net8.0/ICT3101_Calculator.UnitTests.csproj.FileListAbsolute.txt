@@ -1,0 +1,713 @@
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/.msCoverageSourceRootsMapping_ICT3101_Calculator.UnitTests
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/CoverletSourceRootsMapping_ICT3101_Calculator.UnitTests
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ICT3101_Calculator.deps.json
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ICT3101_Calculator.runtimeconfig.json
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ICT3101_Calculator
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/NUnit3.TestAdapter.pdb
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/nunit.engine.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/nunit.engine.api.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/nunit.engine.core.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/testcentric.engine.metadata.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/NUnit3.TestAdapter.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ICT3101_Calculator.UnitTests.deps.json
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ICT3101_Calculator.UnitTests.runtimeconfig.json
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ICT3101_Calculator.UnitTests.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ICT3101_Calculator.UnitTests.pdb
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.ApplicationInsights.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.Testing.Extensions.Telemetry.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.Testing.Extensions.VSTestBridge.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.Testing.Platform.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.Testing.Extensions.MSBuild.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.TestPlatform.AdapterUtilities.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.TestPlatform.Utilities.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/testhost.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/nunit.framework.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/cs/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/de/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/es/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/fr/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/it/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ja/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ko/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pl/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pt-BR/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ru/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/tr/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hans/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hant/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/cs/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/de/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/es/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/fr/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/it/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ja/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ko/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pl/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pt-BR/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ru/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/tr/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hans/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hant/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/cs/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/de/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/es/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/fr/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/it/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ja/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ko/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pl/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pt-BR/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ru/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/tr/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hans/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hant/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/cs/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/de/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/es/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/fr/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/it/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ja/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ko/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pl/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pt-BR/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ru/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/tr/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hans/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hant/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/de/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/es/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/it/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ICT3101_Calculator.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ICT3101_Calculator.pdb
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.csproj.AssemblyReference.cache
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.gentestingplatformentrypointinputcache.cache
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.genautoregisteredextensionsinputcache.cache
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.AssemblyInfoInputs.cache
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.AssemblyInfo.cs
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.csproj.CoreCompileInputs.cache
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_.3478E999.Up2Date
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/refint/ICT3101_Calculator.UnitTests.dll
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.pdb
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.genruntimeconfig.cache
+/Users/dennisng/ICT3101 (V&V)/Lab1/ict3101-lab1/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ref/ICT3101_Calculator.UnitTests.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/.msCoverageSourceRootsMapping_ICT3101_Calculator.UnitTests
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/CoverletSourceRootsMapping_ICT3101_Calculator.UnitTests
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/NUnit3.TestAdapter.pdb
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/nunit.engine.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/nunit.engine.api.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/nunit.engine.core.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/testcentric.engine.metadata.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/NUnit3.TestAdapter.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ICT3101_Calculator.deps.json
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ICT3101_Calculator.runtimeconfig.json
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ICT3101_Calculator
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ICT3101_Calculator.UnitTests.deps.json
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ICT3101_Calculator.UnitTests.runtimeconfig.json
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ICT3101_Calculator.UnitTests.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ICT3101_Calculator.UnitTests.pdb
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.ApplicationInsights.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.Testing.Extensions.Telemetry.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.Testing.Extensions.VSTestBridge.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.Testing.Platform.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.Testing.Extensions.MSBuild.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.TestPlatform.AdapterUtilities.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.TestPlatform.Utilities.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/testhost.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/nunit.framework.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/cs/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/de/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/es/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/fr/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/it/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ja/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ko/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pl/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pt-BR/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ru/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/tr/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hans/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hant/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/cs/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/de/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/es/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/fr/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/it/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ja/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ko/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pl/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pt-BR/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ru/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/tr/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hans/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hant/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/cs/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/de/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/es/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/fr/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/it/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ja/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ko/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pl/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pt-BR/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ru/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/tr/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hans/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hant/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/cs/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/de/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/es/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/fr/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/it/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ja/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ko/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pl/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pt-BR/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ru/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/tr/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hans/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hant/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/de/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/es/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/it/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ICT3101_Calculator.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ICT3101_Calculator.pdb
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.csproj.AssemblyReference.cache
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.gentestingplatformentrypointinputcache.cache
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.genautoregisteredextensionsinputcache.cache
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.AssemblyInfoInputs.cache
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.AssemblyInfo.cs
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.csproj.CoreCompileInputs.cache
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_.3478E999.Up2Date
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/refint/ICT3101_Calculator.UnitTests.dll
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.pdb
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.genruntimeconfig.cache
+/Users/dennisng/ICT3101 (V&V)/Lab2/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ref/ICT3101_Calculator.UnitTests.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/.msCoverageSourceRootsMapping_ICT3101_Calculator.UnitTests
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/CoverletSourceRootsMapping_ICT3101_Calculator.UnitTests
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/NUnit3.TestAdapter.pdb
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/nunit.engine.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/nunit.engine.api.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/nunit.engine.core.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/testcentric.engine.metadata.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/NUnit3.TestAdapter.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ICT3101_Calculator.deps.json
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ICT3101_Calculator.runtimeconfig.json
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ICT3101_Calculator
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ICT3101_Calculator.UnitTests.deps.json
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ICT3101_Calculator.UnitTests.runtimeconfig.json
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ICT3101_Calculator.UnitTests.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ICT3101_Calculator.UnitTests.pdb
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.ApplicationInsights.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.Testing.Extensions.Telemetry.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.Testing.Extensions.VSTestBridge.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.Testing.Platform.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.Testing.Extensions.MSBuild.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.TestPlatform.AdapterUtilities.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.TestPlatform.Utilities.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/testhost.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/nunit.framework.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/cs/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/de/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/es/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/fr/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/it/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ja/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ko/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pl/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pt-BR/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ru/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/tr/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hans/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hant/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/cs/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/de/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/es/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/fr/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/it/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ja/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ko/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pl/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pt-BR/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ru/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/tr/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hans/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hant/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/cs/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/de/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/es/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/fr/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/it/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ja/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ko/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pl/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pt-BR/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ru/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/tr/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hans/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hant/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/cs/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/de/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/es/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/fr/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/it/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ja/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ko/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pl/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pt-BR/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ru/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/tr/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hans/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hant/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/de/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/es/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/it/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ICT3101_Calculator.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ICT3101_Calculator.pdb
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.csproj.AssemblyReference.cache
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.gentestingplatformentrypointinputcache.cache
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.genautoregisteredextensionsinputcache.cache
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.AssemblyInfoInputs.cache
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.AssemblyInfo.cs
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.csproj.CoreCompileInputs.cache
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_.3478E999.Up2Date
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/refint/ICT3101_Calculator.UnitTests.dll
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.pdb
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.genruntimeconfig.cache
+/Users/dennisng/ICT3101 (V&V)/Lab3/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ref/ICT3101_Calculator.UnitTests.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/.msCoverageSourceRootsMapping_ICT3101_Calculator.UnitTests
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/CoverletSourceRootsMapping_ICT3101_Calculator.UnitTests
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/NUnit3.TestAdapter.pdb
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/nunit.engine.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/nunit.engine.api.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/nunit.engine.core.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/testcentric.engine.metadata.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/NUnit3.TestAdapter.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ICT3101_Calculator.deps.json
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ICT3101_Calculator.runtimeconfig.json
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ICT3101_Calculator
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ICT3101_Calculator.UnitTests.deps.json
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ICT3101_Calculator.UnitTests.runtimeconfig.json
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ICT3101_Calculator.UnitTests.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ICT3101_Calculator.UnitTests.pdb
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.ApplicationInsights.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.Testing.Extensions.Telemetry.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.Testing.Extensions.VSTestBridge.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.Testing.Platform.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.Testing.Extensions.MSBuild.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.TestPlatform.AdapterUtilities.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.TestPlatform.Utilities.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/testhost.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/nunit.framework.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/cs/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/de/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/es/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/fr/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/it/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ja/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ko/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pl/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pt-BR/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ru/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/tr/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hans/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hant/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/cs/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/de/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/es/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/fr/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/it/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ja/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ko/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pl/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pt-BR/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ru/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/tr/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hans/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hant/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/cs/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/de/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/es/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/fr/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/it/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ja/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ko/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pl/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pt-BR/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ru/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/tr/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hans/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hant/Microsoft.Testing.Platform.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/cs/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/de/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/es/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/fr/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/it/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ja/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ko/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pl/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pt-BR/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ru/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/tr/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hans/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hant/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/de/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/es/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/it/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ICT3101_Calculator.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/ICT3101_Calculator.pdb
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.csproj.AssemblyReference.cache
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.gentestingplatformentrypointinputcache.cache
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.genautoregisteredextensionsinputcache.cache
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.AssemblyInfoInputs.cache
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.AssemblyInfo.cs
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.csproj.CoreCompileInputs.cache
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.sourcelink.json
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_.3478E999.Up2Date
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/refint/ICT3101_Calculator.UnitTests.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.pdb
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.genruntimeconfig.cache
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ref/ICT3101_Calculator.UnitTests.dll
