@@ -8,43 +8,22 @@ on:
 
 jobs:
   build:
-    strategy:
-      matrix:
-        dotnet-version: [6.0, 8.0]  # Matrix to test both .NET 6 and .NET 8
-
-    runs-on: windows-latest
-
-    defaults:
-      run:
-        working-directory: ./  # Assuming everything is in the root folder
-
+    runs-on: ubuntu-latest
     env:
-      Solution_Name: ICT3101_Calculator.sln
-      NUnit_Test_Project_Path: ICT3101_Calculator.UnitTests/ICT3101_Calculator.UnitTests.csproj
-      SpecFlow_Test_Project_Path: SpecFlowCalculatorTests/SpecFlowCalculatorTests.csproj
-
+      Solution_Name: SpecFlowCalculatorTests.sln
+      # One test project path per line. You currently have just one test project.
+      Test_Project_Paths: |
+        SpecFlowCalculatorTests.csproj
+        
     steps:
-    - name: Checkout
-      uses: actions/checkout@v4
-      with:
-        fetch-depth: 0
-
-    - name: Install .NET Core
-      uses: actions/setup-dotnet@v4
-      with:
-        dotnet-version: ${{ matrix.dotnet-version }}  # Use matrix version for .NET
-
-    - name: Setup MSBuild.exe
-      uses: microsoft/setup-msbuild@v2
-
-    # Run NUnit tests (already working fine)
-    - name: Run NUnit Tests
-      working-directory: ./ICT3101_Calculator.UnitTests
-      run: dotnet test --no-build --verbosity normal
-
-
-    # Run SpecFlow tests
-    - name: Run SpecFlow Tests
-      working-directory: ./SpecFlowCalculatorTests  # Path to your SpecFlow test project
-      run: dotnet test --no-build --verbosity normal
-
+      - uses: actions/checkout@v4
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '8.0.x'
+      - name: Restore
+        run: dotnet restore
+      - name: Build
+        run: dotnet build --no-restore
+      - name: Test
+        run: dotnet test --no-build --verbosity normal
