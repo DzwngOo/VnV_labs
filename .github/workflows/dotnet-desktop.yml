@@ -47,10 +47,3 @@ jobs:
     - name: Run SpecFlow Tests
       working-directory: ./SpecFlowCalculatorTests  # Path to your SpecFlow test project
       run: dotnet test --no-build --verbosity normal
-
-    # Upload test results if needed
-    - name: Upload Test Results
-      uses: actions/upload-artifact@v4
-      with:
-        name: test-results
-        path: ./SpecFlowCalculatorTests/test_results.trx
