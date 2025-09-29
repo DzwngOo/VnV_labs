@@ -337,3 +337,5 @@
 /Users/dennisng/VnV_labs/SpecFlowCalculatorTests/obj/Debug/net8.0/SpecFlowCalculatorTests.pdb
 /Users/dennisng/VnV_labs/SpecFlowCalculatorTests/obj/Debug/net8.0/SpecFlowCalculatorTests.genruntimeconfig.cache
 /Users/dennisng/VnV_labs/SpecFlowCalculatorTests/obj/Debug/net8.0/ref/SpecFlowCalculatorTests.dll
+/Users/dennisng/VnV_labs/SpecFlowCalculatorTests/bin/Debug/net8.0/.msCoverageSourceRootsMapping_SpecFlowCalculatorTests
+/Users/dennisng/VnV_labs/SpecFlowCalculatorTests/obj/Debug/net8.0/SpecFlowCalculatorTests.sourcelink.json

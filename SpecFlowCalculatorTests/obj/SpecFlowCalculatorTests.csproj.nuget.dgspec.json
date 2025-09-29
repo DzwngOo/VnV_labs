@@ -157,7 +157,7 @@
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[17.9.0, )"
+              "version": "[17.14.1, )"
             },
             "NUnit": {
               "target": "Package",
@@ -213,7 +213,7 @@
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[17.9.0, )"
+              "version": "[17.14.1, )"
             },
             "NUnit": {
               "target": "Package",

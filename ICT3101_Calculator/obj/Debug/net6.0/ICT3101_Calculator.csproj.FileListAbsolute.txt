@@ -40,3 +40,4 @@
 /Users/dennisng/VnV_labs/ICT3101_Calculator/obj/Debug/net6.0/ICT3101_Calculator.pdb
 /Users/dennisng/VnV_labs/ICT3101_Calculator/obj/Debug/net6.0/ICT3101_Calculator.genruntimeconfig.cache
 /Users/dennisng/VnV_labs/ICT3101_Calculator/obj/Debug/net6.0/ref/ICT3101_Calculator.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator/obj/Debug/net6.0/ICT3101_Calculator.sourcelink.json

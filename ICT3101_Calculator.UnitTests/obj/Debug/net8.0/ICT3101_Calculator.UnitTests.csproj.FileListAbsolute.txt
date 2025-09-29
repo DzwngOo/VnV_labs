@@ -710,3 +710,4 @@
 /Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.pdb
 /Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.genruntimeconfig.cache
 /Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ref/ICT3101_Calculator.UnitTests.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.sourcelink.json
