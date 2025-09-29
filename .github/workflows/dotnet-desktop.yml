@@ -45,20 +45,21 @@ on:
     branches: [ "main" ]
 
 jobs:
-
   build:
-
     strategy:
       matrix:
-        configuration: [Debug, Release]
+        dotnet-version: [6.0, 8.0]  # Matrix to test both .NET 6 and .NET 8
 
-    runs-on: windows-latest  # For a list of available runner types, refer to
-                             # https://help.github.com/en/actions/reference/workflow-syntax-for-github-actions#jobsjob_idruns-on
+    runs-on: windows-latest
+
+    defaults:
+      run:
+        working-directory: ./  # Assuming everything is in the root folder
 
     env:
-      Solution_Name: ICT3101_Calculator.sln                       # Replace with your solution name, i.e. MyWpfApp.sln.
-      Test_Project_Path: SpecFlowCalculatorTests/                 # Replace with the path to your test project, i.e. MyWpfApp.Tests\MyWpfApp.Tests.csproj.
-
+      Solution_Name: ICT3101_Calculator.sln
+      NUnit_Test_Project_Path: ICT3101_Calculator.UnitTests/ICT3101_Calculator.UnitTests.csproj
+      SpecFlow_Test_Project_Path: SpecFlowCalculatorTests/SpecFlowCalculatorTests.csproj
 
     steps:
     - name: Checkout
@@ -66,20 +67,23 @@ jobs:
       with:
         fetch-depth: 0
 
-    # Install the .NET Core workload
     - name: Install .NET Core
       uses: actions/setup-dotnet@v4
       with:
-        dotnet-version: 8.0.x
+        dotnet-version: ${{ matrix.dotnet-version }}  # Use matrix version for .NET
 
+    - name: Setup MSBuild.exe
+      uses: microsoft/setup-msbuild@v2
 
-    # Execute all unit tests in the solution
-    - name: NUnit Tests
-      working-directory: ICT3112_Calculator.UnitTests/
-      run: dotnet test --no-build --verbosity normal
+    # Run NUnit tests (already working fine)
+    - name: Run NUnit Tests
+      working-directory: ./ICT3101_Calculator.UnitTests
+      run: dotnet test --verbosity normal --framework net${{ matrix.dotnet-version }}  # Specify the framework version for NUnit
 
-    - name: SpecFLow Tests
-      working-directory: SpecFlowCalculatorTests/
-      run: dotnet test --no-build --verbosity normal  
+    # Run SpecFlow tests
+    - name: Run SpecFlow Tests
+      working-directory: ./SpecFlowCalculatorTests  # Path to your SpecFlow test project
+      run: dotnet test --verbosity normal --framework net${{ matrix.dotnet-version }}  # Specify the framework version for SpecFlow
+
 
 
