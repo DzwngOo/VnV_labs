@@ -8,6 +8,10 @@ on:
 
 jobs:
   build:
+    strategy:
+      matrix:
+        dotnet-version: [6.0, 8.0]  # Matrix to test both .NET 6 and .NET 8
+
     runs-on: windows-latest
 
     defaults:
@@ -28,7 +32,7 @@ jobs:
     - name: Install .NET Core
       uses: actions/setup-dotnet@v4
       with:
-        dotnet-version: 8.0.x  # Ensure correct .NET version
+        dotnet-version: ${{ matrix.dotnet-version }}  # Use matrix version for .NET
 
     - name: Setup MSBuild.exe
       uses: microsoft/setup-msbuild@v2
@@ -36,10 +40,9 @@ jobs:
     # Run NUnit tests (already working fine)
     - name: Run NUnit Tests
       working-directory: ./ICT3101_Calculator.UnitTests
-      run: dotnet test --verbosity normal
+      run: dotnet test --verbosity normal --framework net${{ matrix.dotnet-version }}  # Specify the framework version for NUnit
 
     # Run SpecFlow tests
     - name: Run SpecFlow Tests
       working-directory: ./SpecFlowCalculatorTests  # Path to your SpecFlow test project
-      run: dotnet test --verbosity normal
-
+      run: dotnet test --verbosity normal --framework net${{ matrix.dotnet-version }}  # Specify the framework version for SpecFlow
