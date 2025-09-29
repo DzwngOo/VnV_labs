@@ -36,22 +36,10 @@ jobs:
     # Run NUnit tests (already working fine)
     - name: Run NUnit Tests
       working-directory: ./ICT3101_Calculator.UnitTests
-      run: dotnet test --no-build --verbosity normal
+      run: dotnet test --verbosity normal
 
-    # List all tests for SpecFlow (this is important to see if tests are discovered)
-    - name: List SpecFlow Tests
-      working-directory: ./SpecFlowCalculatorTests  # Path to your SpecFlow test project
-      run: dotnet test --list-tests --no-build --verbosity normal
-
-    # Run SpecFlow tests and generate test results
+    # Run SpecFlow tests
     - name: Run SpecFlow Tests
       working-directory: ./SpecFlowCalculatorTests  # Path to your SpecFlow test project
-      run: dotnet test --no-build --verbosity normal --logger "trx;LogFileName=test_results.trx"
-
-    # Upload test results if needed
-    - name: Upload Test Results
-      uses: actions/upload-artifact@v4
-      with:
-        name: test-results
-        path: ./SpecFlowCalculatorTests/test_results.trx  # Ensure correct path
+      run: dotnet test --verbosity normal
 
