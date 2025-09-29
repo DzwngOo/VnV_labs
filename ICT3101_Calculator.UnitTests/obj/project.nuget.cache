@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3I9Jcs0Vqlo=",
+  "dgSpecHash": "NhjZou4+OZ8=",
   "success": true,
   "projectFilePath": "/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/ICT3101_Calculator.UnitTests.csproj",
   "expectedPackageFiles": [
@@ -15,6 +15,7 @@
     "/Users/dennisng/.nuget/packages/microsoft.testing.platform/1.7.3/microsoft.testing.platform.1.7.3.nupkg.sha512",
     "/Users/dennisng/.nuget/packages/microsoft.testing.platform.msbuild/1.7.3/microsoft.testing.platform.msbuild.1.7.3.nupkg.sha512",
     "/Users/dennisng/.nuget/packages/microsoft.testplatform.adapterutilities/17.13.0/microsoft.testplatform.adapterutilities.17.13.0.nupkg.sha512",
+    "/Users/dennisng/.nuget/packages/microsoft.testplatform.objectmodel/17.13.0/microsoft.testplatform.objectmodel.17.13.0.nupkg.sha512",
     "/Users/dennisng/.nuget/packages/microsoft.testplatform.objectmodel/17.14.1/microsoft.testplatform.objectmodel.17.14.1.nupkg.sha512",
     "/Users/dennisng/.nuget/packages/microsoft.testplatform.testhost/17.14.1/microsoft.testplatform.testhost.17.14.1.nupkg.sha512",
     "/Users/dennisng/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
@@ -24,7 +25,10 @@
     "/Users/dennisng/.nuget/packages/nunit3testadapter/5.1.0/nunit3testadapter.5.1.0.nupkg.sha512",
     "/Users/dennisng/.nuget/packages/system.collections.immutable/8.0.0/system.collections.immutable.8.0.0.nupkg.sha512",
     "/Users/dennisng/.nuget/packages/system.diagnostics.diagnosticsource/5.0.0/system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
-    "/Users/dennisng/.nuget/packages/system.reflection.metadata/8.0.0/system.reflection.metadata.8.0.0.nupkg.sha512"
+    "/Users/dennisng/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512",
+    "/Users/dennisng/.nuget/packages/system.reflection.metadata/8.0.0/system.reflection.metadata.8.0.0.nupkg.sha512",
+    "/Users/dennisng/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/dennisng/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
   ],
   "logs": []
 }

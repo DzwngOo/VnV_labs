@@ -13,6 +13,7 @@ jobs:
         dotnet-version: [6.0, 8.0]  # Matrix to test both .NET 6 and .NET 8
 
     runs-on: windows-latest
+    timeout-minutes: 30  # Add timeout to prevent hanging builds
 
     defaults:
       run:
@@ -39,11 +40,11 @@ jobs:
 
     # Restore dependencies
     - name: Restore dependencies
-      run: dotnet restore ${{ env.Solution_Name }}
+      run: dotnet restore ${{ env.Solution_Name }} --verbosity minimal
 
     # Build the solution
     - name: Build
-      run: dotnet build ${{ env.Solution_Name }} --configuration Release --no-restore
+      run: dotnet build ${{ env.Solution_Name }} --configuration Release --no-restore --verbosity minimal
 
     # Run NUnit tests
     - name: Run NUnit Tests
