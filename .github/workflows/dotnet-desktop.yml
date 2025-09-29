@@ -45,4 +45,5 @@ jobs:
     # Run SpecFlow tests
     - name: Run SpecFlow Tests
       working-directory: ./SpecFlowCalculatorTests  # Path to your SpecFlow test project
-      run: dotnet test --verbosity normal 
+      run: dotnet test --no-build --verbosity normal
+
