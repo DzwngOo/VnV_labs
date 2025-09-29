@@ -46,15 +46,15 @@ jobs:
     - name: Build
       run: dotnet build ${{ env.Solution_Name }} --configuration Release --no-restore --verbosity minimal
 
-    # Run NUnit tests (without framework targeting to test all frameworks)
+    # Run NUnit tests
     - name: Run NUnit Tests
       working-directory: ./ICT3101_Calculator.UnitTests
-      run: dotnet test --verbosity normal --configuration Release
+      run: dotnet test --verbosity normal --configuration Release --framework net${{ matrix.dotnet-version }}.0
 
-    # Run SpecFlow tests (without framework targeting to test all frameworks)
+    # Run SpecFlow tests
     - name: Run SpecFlow Tests
       working-directory: ./SpecFlowCalculatorTests
-      run: dotnet test --verbosity normal --configuration Release
+      run: dotnet test --verbosity normal --configuration Release --framework net${{ matrix.dotnet-version }}.0
 
     
 
