@@ -8,10 +8,6 @@ on:
 
 jobs:
   build:
-    strategy:
-      matrix:
-        dotnet-version: [6.0, 8.0]  # Test both .NET 6 and .NET 8
-
     runs-on: windows-latest
     timeout-minutes: 30  # Prevent hanging builds
 
@@ -21,7 +17,7 @@ jobs:
 
     env:
       Solution_Name: ICT3101_Calculator.sln
-      # NUnit_Test_Project_Path: ICT3101_Calculator.UnitTests/ICT3101_Calculator.UnitTests.csproj
+      NUnit_Test_Project_Path: ICT3101_Calculator.UnitTests/ICT3101_Calculator.UnitTests.csproj
       SpecFlow_Test_Project_Path: SpecFlowCalculatorTests/SpecFlowCalculatorTests.csproj
 
     steps:
@@ -33,7 +29,7 @@ jobs:
     - name: Install .NET Core
       uses: actions/setup-dotnet@v4
       with:
-        dotnet-version: ${{ matrix.dotnet-version }}
+        dotnet-version: 8.0
 
     - name: Setup MSBuild.exe
       uses: microsoft/setup-msbuild@v2
@@ -49,12 +45,12 @@ jobs:
     # Run NUnit tests
     - name: Run NUnit Tests
       working-directory: ./ICT3101_Calculator.UnitTests
-      run: dotnet test --verbosity normal --configuration Release --framework net${{ matrix.dotnet-version }}.0
+      run: dotnet test --verbosity normal --configuration Release --framework net8.0
 
     # Run SpecFlow tests
     - name: Run SpecFlow Tests
       working-directory: ./SpecFlowCalculatorTests
-      run: dotnet test --verbosity normal --configuration Release --framework net${{ matrix.dotnet-version }}.0
+      run: dotnet test --verbosity normal --configuration Release --framework net8.0
 
     
 
