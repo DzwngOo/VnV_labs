@@ -37,14 +37,21 @@ jobs:
     - name: Setup MSBuild.exe
       uses: microsoft/setup-msbuild@v2
 
-    # Run NUnit tests (already working fine)
+    # Restore dependencies
+    - name: Restore dependencies
+      run: dotnet restore ${{ env.Solution_Name }}
+
+    # Build the solution
+    - name: Build
+      run: dotnet build ${{ env.Solution_Name }} --configuration Release --no-restore
+
+    # Run NUnit tests
     - name: Run NUnit Tests
       working-directory: ./ICT3101_Calculator.UnitTests
-      run: dotnet test --no-build --verbosity normal
-
+      run: dotnet test --no-build --verbosity normal --configuration Release
 
     # Run SpecFlow tests
     - name: Run SpecFlow Tests
-      working-directory: ./SpecFlowCalculatorTests  # Path to your SpecFlow test project
-      run: dotnet test --no-build --verbosity normal
+      working-directory: ./SpecFlowCalculatorTests
+      run: dotnet test --no-build --verbosity normal --configuration Release
 
