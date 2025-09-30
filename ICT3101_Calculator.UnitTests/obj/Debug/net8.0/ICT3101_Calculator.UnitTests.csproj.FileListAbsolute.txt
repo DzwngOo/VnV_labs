@@ -711,3 +711,8 @@
 /Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.pdb
 /Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ICT3101_Calculator.UnitTests.genruntimeconfig.cache
 /Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/obj/Debug/net8.0/ref/ICT3101_Calculator.UnitTests.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Castle.Core.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/Moq.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/System.Diagnostics.EventLog.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator.UnitTests/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.dll

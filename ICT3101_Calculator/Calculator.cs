@@ -1,6 +1,8 @@
 public class Calculator
 {
     public Calculator() { }
+
+
     public double DoOperation(double num1, double num2, string op)
     {
         double result = double.NaN; // Default value
@@ -174,6 +176,22 @@ public class Calculator
         var inside = 1.0 + theta * lambda0 * x;
         if (inside <= 0) return 0; // guard
         return Math.Log(inside) / theta;
+    }
+
+    // Add the IFileReader interface as a dependency
+    public double GenMagicNum(double input, IFileReader fileReader)
+    {
+        double result = 0;
+        int choice = Convert.ToInt16(input);
+        // Use the injected fileReader instance
+        string[] magicStrings = fileReader.Read("MagicNumbers.txt");
+
+        if ((choice >= 0) && (choice < magicStrings.Length))
+        {
+            result = Convert.ToDouble(magicStrings[choice]);
+        }
+        result = (result > 0) ? (2 * result) : (-2 * result);
+        return result;
     }
 
 

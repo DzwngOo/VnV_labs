@@ -1,13 +1,20 @@
 namespace ICT3101_Calculator.UnitTests;
-
+using Moq;
+using NUnit.Framework;
 public class CalculatorTests
 {
     private Calculator _calculator;
+    private Mock<IFileReader> _mockFileReader;  // Mock the IFileReader interface
     [SetUp]
     public void Setup()
     {
-        // Arrange
-        _calculator = new Calculator();
+        // Create a new mock of IFileReader
+        _mockFileReader = new Mock<IFileReader>();
+        // Setup the mock to return specific values when the Read method is called
+        _mockFileReader.Setup(fr => fr.Read("MagicNumbers.txt")).Returns(new string[] { "42", "15", "88" });
+        
+         _calculator = new Calculator();
+        
     }
     [Test]
     public void Add_WhenAddingTwoNumbers_ResultEqualToSum()
@@ -211,4 +218,20 @@ public class CalculatorTests
         // Assert
         Assert.That(() => _calculator.UnknownFunctionB(4, 5), Throws.ArgumentException);
     }
+    [Test]
+    public void GenMagicNum_ValidChoice_ReturnsCorrectNumber()
+    {
+        // Pass the mocked IFileReader to the method
+        double result = _calculator.GenMagicNum(0, _mockFileReader.Object);  // Pass the mock object
+        Assert.AreEqual(84, result);  // Expecting 42 * 2 (as 42 is the first magic number)
+    }
+
+    [Test]
+    public void GenMagicNum_InvalidChoice_ReturnsZero()
+    {
+        // Test with an invalid choice (e.g., index 10)
+        double result = _calculator.GenMagicNum(10, _mockFileReader.Object);
+        Assert.AreEqual(0, result);  // Expecting 0 as the result for out-of-range choice
+    }
+
 }

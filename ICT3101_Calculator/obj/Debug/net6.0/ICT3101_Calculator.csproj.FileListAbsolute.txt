@@ -41,3 +41,10 @@
 /Users/dennisng/VnV_labs/ICT3101_Calculator/obj/Debug/net6.0/ICT3101_Calculator.pdb
 /Users/dennisng/VnV_labs/ICT3101_Calculator/obj/Debug/net6.0/ICT3101_Calculator.genruntimeconfig.cache
 /Users/dennisng/VnV_labs/ICT3101_Calculator/obj/Debug/net6.0/ref/ICT3101_Calculator.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator/bin/Debug/net6.0/Castle.Core.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator/bin/Debug/net6.0/Moq.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator/bin/Debug/net6.0/System.Diagnostics.EventLog.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.dll
+/Users/dennisng/VnV_labs/ICT3101_Calculator/obj/Debug/net6.0/ICT3101_Calculator.csproj.AssemblyReference.cache
+/Users/dennisng/VnV_labs/ICT3101_Calculator/obj/Debug/net6.0/ICT3101_.87BDA837.Up2Date
